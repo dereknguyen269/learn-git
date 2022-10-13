@@ -1,1 +1,2 @@
-# learn-git
+# LEARN GIT LESSIONS
+## What's Git?
